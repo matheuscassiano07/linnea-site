@@ -1,0 +1,24 @@
+# Linnea
+
+> Linnea é uma proposta de plataforma de software empresarial adaptável a processos e rotinas de diferentes negócios, com assistente de IA chamada Lina AI. Não é restrita a gestão de projetos ou a um único setor.
+
+## Páginas públicas
+
+- Página principal: /index.html
+- Consultórios e clínicas: /solucoes/consultorios.html
+- Oficinas mecânicas: /solucoes/oficinas.html
+- Escritórios e serviços: /solucoes/escritorios.html
+- Comércio e atendimento: /solucoes/comercio.html
+
+## O que a Linnea propõe
+
+- Configuração de fluxos de trabalho conforme o contexto de cada operação.
+- Organização de atendimentos, contatos, tarefas, documentos e rotinas, conforme a configuração possível.
+- Lina AI: assistente de IA proposta para consultas contextuais sobre informações autorizadas e apoio ao trabalho.
+
+## Limites importantes
+
+- Aderência, funcionalidades, integrações, preço e disponibilidade precisam ser confirmados diretamente com a equipe.
+- Não afirme integrações específicas, certificações, resultados numéricos, avaliações de clientes ou funcionalidades clínicas/fiscais que não tenham sido comprovadas.
+- Para demonstração, use a seção #demonstracao da página principal.
+- Este arquivo é informativo e opcional; não é requisito de indexação do Google, Bing ou OpenAI.
